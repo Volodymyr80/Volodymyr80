@@ -35,6 +35,7 @@ I maintain a virtualized homelab consisting of 3 Proxmox VE nodes, each provisio
 - 4 vCPU
 - 16 GB RAM
 - 512 GB SSD
+  
 This environment is used for continuous learning, research, and pre-production testing of infrastructure solutions before deploying them to enterprise environments.
 
 
