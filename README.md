@@ -9,7 +9,7 @@
 | **Automation** | <img src="./images/jenkins.svg" width="40"/>   <img src="./images/Apache-nifi-logo.svg" width="120"/>   <img src="./images/postman-icon-svgrepo-com.svg" width="40"/> |
 | **Message Brokers** | <img src="./images/rabbitmq.svg" width="40"/> <img src="./images/activemq_logo_icon.svg" width="40"/> |
 | **Databases** | <img src="./images/mysql.svg" width="40"/> <img src="./images/postgresql.svg" width="40"/> <img src="./images/mariadb.svg" width="40"/> |
-| **Web Servers & Proxies** | <img src="https://skillicons.dev/icons?i=nginx,apache" /> HAProxy *(custom)* |
-| **Observability** | <img src="https://skillicons.dev/icons?i=grafana,prometheus" /> Loki, Alloy *(custom)* |
+| **Web Servers & Proxies** | <img src="./images/nginx.svg" width="40"/> <img src="./images/haproxy.svg" width="40"/> <img src="./images/apache.svg" width="40"/> |
+| **Observability** | <img src="./images/grafana.svg" width="40"/> <img src="./images/prometheus.svg" width="40"/> <img src="./images/loki.svg" width="40"/> <img src="./images/alloy.svg" width="40"/> |
 | **Sysadmin** | <img src="https://skillicons.dev/icons?i=linux,windows" /> |
-| **Virtualization** | <img src="https://skillicons.dev/icons?i=vmware" /> Proxmox, Hyper-V, VirtualBox *(custom)* |
+| **Virtualization** | <img src="./images/proxmox-light.svg" width="40"/> <img src="https://skillicons.dev/icons?i=vmware" /> |
