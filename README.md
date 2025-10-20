@@ -1,6 +1,7 @@
 My Technology Stack
 
 ---------------------
+
 Cloud Services - Amazon AWS, Microsoft AZURE
 
 Scripting - BASH, PYTHON
@@ -22,4 +23,5 @@ Observability - GRAFANA, LOKI, ALLOY, PROMETHEUS
 Sysadmin - LINUX, WINDOWS SERVER
 
 Virtualization - PROXMOX, HYPER-V, VirtualBox, VMWARE
+
 ----------------------
