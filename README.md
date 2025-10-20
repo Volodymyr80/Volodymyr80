@@ -43,6 +43,7 @@ Services Hosted:
 - HAProxy as a reverse proxy
 - Jenkins
 - Apache NiFi
+- Apache Kafka
 - MySQL
 - Joomla
 - GLPI
