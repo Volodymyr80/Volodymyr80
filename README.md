@@ -26,3 +26,18 @@ Below is a curated overview of the platforms, languages, and systems I actively 
 | **Virtualization** | <img src="./images/proxmox-light.svg" width="40"/> <img src="./images/vmware.svg" width="40"/> |
 | **ITSM & Project Management** | <img src="./images/glpi.svg" width="40"/> <img src="./images/atlassian-confluence.svg" width="40"/> |
 | **Print Management** | <img src="./images/safeq.png" width="60"/> |
+
+
+### Homelab Overview
+
+3× Proxmox VE nodes (4 vCPU, 16 GB RAM, 512 GB SSD)
+Services Hosted:
+  HAProxy as a reverse proxy
+  Jenkins
+  Apache NiFi
+  MySQL
+  Joomla
+  GLPI
+  MailCow
+  Grafana, Loki, Alloy
+  
