@@ -30,15 +30,19 @@ Below is a curated overview of the platforms, languages, and systems I actively 
 
 ### Homelab Overview
 
-3× Proxmox VE nodes (4 vCPU, 16 GB RAM, 512 GB SSD)
+I maintain a virtualized homelab consisting of 3 Proxmox VE nodes, each provisioned with:
+- 4 vCPU
+- 16 GB RAM
+- 512 GB SSD
+
 
 Services Hosted:
-  HAProxy as a reverse proxy
-  Jenkins
-  Apache NiFi
-  MySQL
-  Joomla
-  GLPI
-  MailCow
-  Grafana, Loki, Alloy
+- HAProxy as a reverse proxy
+- Jenkins
+- Apache NiFi
+- MySQL
+- Joomla
+- GLPI
+- MailCow
+- Grafana, Loki, Alloy
   
