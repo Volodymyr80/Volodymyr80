@@ -2,14 +2,14 @@
 
 | Category | Tools & Technologies |
 |-----------|----------------------|
-| ☁️ **Cloud Services** | <img src="https://skillicons.dev/icons?i=aws,azure" /> |
-| 🐚 **Scripting** | <img src="https://skillicons.dev/icons?i=bash,python" /> |
-| 🐳 **Containers** | <img src="https://skillicons.dev/icons?i=docker,lxc" /> |
-| 🧩 **Version Control** | <img src="https://skillicons.dev/icons?i=github,gitea" /> |
-| ⚙️ **Automation** | <img src="https://skillicons.dev/icons?i=jenkins,postman" /> <br> Apache NiFi *(custom)* |
-| 💬 **Message Brokers** | <img src="https://skillicons.dev/icons?i=rabbitmq" /> ActiveMQ *(custom)* |
-| 🗄️ **Databases** | <img src="https://skillicons.dev/icons?i=mysql,mariadb,postgresql" /> |
-| 🌐 **Web Servers & Proxies** | <img src="https://skillicons.dev/icons?i=nginx,apache" /> HAProxy *(custom)* |
-| 📈 **Observability** | <img src="https://skillicons.dev/icons?i=grafana,prometheus" /> Loki, Alloy *(custom)* |
-| 🧑‍💻 **Sysadmin** | <img src="https://skillicons.dev/icons?i=linux,windows" /> |
-| 🖥️ **Virtualization** | <img src="https://skillicons.dev/icons?i=vmware" /> Proxmox, Hyper-V, VirtualBox *(custom)* |
+| ☁️ **Cloud Services** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" /> |
+| 🐚 **Scripting** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /> |
+| 🐳 **Containers** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /> <img src="https://img.icons8.com/color/48/lxc.png" width="40" /> |
+| 🧩 **Version Control** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" /> <img src="https://avatars.githubusercontent.com/u/12724356?s=200&v=4" width="40" /> |
+| ⚙️ **Automation** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" /> <img src="https://seeklogo.com/images/A/apache-nifi-logo-8B3C0F30A8-seeklogo.com.png" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" /> |
+| 💬 **Message Brokers** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="40" /> <img src="https://activemq.apache.org/assets/img/logo.svg" width="60" /> |
+| 🗄️ **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" /> |
+| 🌐 **Web Servers & Proxies** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" /> <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/HAProxy_Logo.svg" width="60" /> |
+| 📈 **Observability** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" /> <img src="https://grafana.com/static/img/logos/logo-loki.svg" width="40" /> <img src="https://raw.githubusercontent.com/grafana/alloy/main/docs/assets/alloy-logo.svg" width="40" /> |
+| 🧑‍💻 **Sysadmin** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" /> |
+| 🖥️ **Virtualization** | <img src="https://www.proxmox.com/images/proxmox/Proxmox_logo_standard_hex_400px.png" width="70" /> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Hyper-V_Logo.svg" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" width="40" /> |
