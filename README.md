@@ -2,7 +2,7 @@
 
 | Category | Tools & Technologies |
 |-----------|----------------------|
-| **Cloud Services** | <img src="./.github/images/aws-light.svg" width="40"/> <img src="./.github/images/azure.svg" width="40"/> |
+| **Cloud Services** | <img src=".github/images/aws-light.svg" width="40"/> <img src=".github/images/azure.svg" width="40"/> |
 | **Scripting** | <img src="https://skillicons.dev/icons?i=bash,python" /> |
 | **Containers** | <img src="https://skillicons.dev/icons?i=docker,lxc" /> |
 | **Version Control** | <img src="https://skillicons.dev/icons?i=github,gitea" /> |
