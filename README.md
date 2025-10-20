@@ -24,5 +24,5 @@ Below is a curated overview of the platforms, languages, and systems I actively 
 | **Observability** | <img src="./images/grafana.svg" width="40"/> <img src="./images/prometheus.svg" width="40"/> <img src="./images/loki.svg" width="40"/> <img src="./images/alloy.svg" width="40"/> |
 | **Sysadmin** | <img src="https://skillicons.dev/icons?i=linux,windows" /> |
 | **Virtualization** | <img src="./images/proxmox-light.svg" width="40"/> <img src="./images/vmware.svg" width="40"/> |
-| **ITSM & Project Management** | <img src="./images/glpi.svg" width="40"/> <img src="./images/jira.svg" width="40"/> <img src="./images/atlassian-confluence.svg" width="40"/> |
-| **Print Management** | <img src="./images/safeq.png" width="40"/> |
+| **ITSM & Project Management** | <img src="./images/glpi.svg" width="40"/> <img src="./images/atlassian-confluence.svg" width="40"/> |
+| **Print Management** | <img src="./images/safeq.png" width="60"/> |
