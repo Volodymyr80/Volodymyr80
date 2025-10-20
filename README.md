@@ -12,7 +12,7 @@ Below is a curated overview of the platforms, languages, and systems I actively 
 
 | Category | Tools & Technologies |
 |-----------|----------------------|
-| **Cloud Services** | <img src="./images/aws-light.svg" width="40"/> <img src="./images/azure.svg" width="40"/> <img src="./images/hetzner.svg" width="40"/> <img src="./images/digital-ocean.svg" width="40"/> |
+| **Cloud Services** | <img src="./images/aws-light.svg" width="40"/> <img src="./images/azure.svg" width="40"/> <img src="./images/hetzner.svg" width="30"/> <img src="./images/digital-ocean.svg" width="30"/> |
 | **Scripting** | <img src="./images/bash-icon-svgrepo-com.svg" width="40"/> <img src="./images/python-svgrepo-com.svg" width="40"/> |
 | **Containers** | <img src="./images/docker.svg" width="40"/> <img src="./images/containers.svg" width="40"/> |
 | **Version Control** | <img src="./images/github-light.svg" width="40"/> <img src="./images/gitea.svg" width="40"/>  <img src="./images/gitlab.svg" width="40"/>|
@@ -24,7 +24,7 @@ Below is a curated overview of the platforms, languages, and systems I actively 
 | **Observability** | <img src="./images/grafana.svg" width="40"/> <img src="./images/prometheus.svg" width="40"/> <img src="./images/loki.svg" width="40"/> <img src="./images/alloy.svg" width="40"/> |
 | **Sysadmin** | <img src="https://skillicons.dev/icons?i=linux,windows" /> |
 | **Virtualization** | <img src="./images/proxmox-light.svg" width="40"/> <img src="./images/vmware.svg" width="40"/> |
-| **ITSM & Project Management** | <img src="./images/glpi.svg" width="40"/> <img src="./images/atlassian-confluence.svg" width="40"/> |
+| **ITSM & Project Management** | <img src="./images/glpi.svg" width="50"/> <img src="./images/atlassian-confluence.svg" width="30"/> |
 | **Print Management** | <img src="./images/safeq.png" width="60"/> |
 
 
