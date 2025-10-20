@@ -6,7 +6,7 @@ Cloud Services - Amazon AWS, Microsoft AZURE
 
 Scripting - BASH, PYTHON
 
-Containers -  DOCKER
+Containers -  DOCKER, LXC
 
 Version Control - GitHub, Gitea
 
