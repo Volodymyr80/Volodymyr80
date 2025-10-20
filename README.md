@@ -1,3 +1,13 @@
+As a **DevOps / Infrastructure Specialist**, I design and maintain **high-availability ecosystems** spanning cloud platforms, containerized services, and automation pipelines.
+
+My technology stack reflects **years of hands-on experience** with scalable architectures, secure deployments, and reproducible workflows — both in enterprise environments and my personal homelab.
+
+I combine **open-source tools** with **cloud-native technologies** to build **resilient, observable, and audit-ready infrastructure**.
+
+Below is a curated overview of the platforms, languages, and systems I actively use and integrate.
+
+
+
 ### My Technology Stack
 
 | Category | Tools & Technologies |
