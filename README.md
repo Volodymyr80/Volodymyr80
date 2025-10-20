@@ -44,5 +44,7 @@ Services Hosted:
 - Joomla
 - GLPI
 - MailCow
+- RabbitMQ
+- Squid
 - Grafana, Loki, Alloy
   
