@@ -1,17 +1,15 @@
-### My Technology Stack
+### 🧠 My Technology Stack
 
 | Category | Tools & Technologies |
 |-----------|----------------------|
-| **Cloud Services** | Amazon **AWS**, Microsoft **Azure** |
-| **Scripting** | **Bash**, **Python** |
-| **Containers** | **Docker**, **LXC** |
-| **Version Control** | **GitHub**, **Gitea** |
-| **Automation** | **Jenkins**, **Apache NiFi**, **Postman** |
-| **Message Brokers** | **RabbitMQ**, **ActiveMQ** |
-| **Databases** | **MySQL**, **MariaDB**, **PostgreSQL** |
-| **Web Servers & Proxies** | **Nginx**, **Apache**, **HAProxy** |
-| **Observability** | **Grafana**, **Loki**, **Alloy**, **Prometheus** |
-| **Sysadmin** | **Linux**, **Windows Server** |
-| **Virtualization** | **Proxmox**, **Hyper-V**, **VirtualBox**, **VMware** |
-
----
+| ☁️ **Cloud Services** | <img src="https://skillicons.dev/icons?i=aws,azure" /> |
+| 🐚 **Scripting** | <img src="https://skillicons.dev/icons?i=bash,python" /> |
+| 🐳 **Containers** | <img src="https://skillicons.dev/icons?i=docker,lxc" /> |
+| 🧩 **Version Control** | <img src="https://skillicons.dev/icons?i=github,gitea" /> |
+| ⚙️ **Automation** | <img src="https://skillicons.dev/icons?i=jenkins,postman" /> <br> Apache NiFi *(custom)* |
+| 💬 **Message Brokers** | <img src="https://skillicons.dev/icons?i=rabbitmq" /> ActiveMQ *(custom)* |
+| 🗄️ **Databases** | <img src="https://skillicons.dev/icons?i=mysql,mariadb,postgresql" /> |
+| 🌐 **Web Servers & Proxies** | <img src="https://skillicons.dev/icons?i=nginx,apache" /> HAProxy *(custom)* |
+| 📈 **Observability** | <img src="https://skillicons.dev/icons?i=grafana,prometheus" /> Loki, Alloy *(custom)* |
+| 🧑‍💻 **Sysadmin** | <img src="https://skillicons.dev/icons?i=linux,windows" /> |
+| 🖥️ **Virtualization** | <img src="https://skillicons.dev/icons?i=vmware" /> Proxmox, Hyper-V, VirtualBox *(custom)* |
