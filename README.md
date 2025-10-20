@@ -31,6 +31,7 @@ Below is a curated overview of the platforms, languages, and systems I actively 
 ### Homelab Overview
 
 3× Proxmox VE nodes (4 vCPU, 16 GB RAM, 512 GB SSD)
+
 Services Hosted:
   HAProxy as a reverse proxy
   Jenkins
