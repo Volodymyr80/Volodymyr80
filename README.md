@@ -3,7 +3,7 @@
 | Category | Tools & Technologies |
 |-----------|----------------------|
 | **Cloud Services** | <img src="./images/aws-light.svg" width="40"/> <img src="./images/azure.svg" width="40"/> |
-| **Scripting** | <img src="./images/bash-svgrepo-com.svg" width="40"/> <img src="./images/python-svgrepo-com.svg" width="40"/> |
+| **Scripting** | <img src="./images/bash-icon-svgrepo-com.svg" width="40"/> <img src="./images/python-svgrepo-com.svg" width="40"/> |
 | **Containers** | <img src="./images/docker.svg" width="40"/> <img src="./images/containers.svg" width="40"/> |
 | **Version Control** | <img src="./images/github-light.svg" width="40"/> <img src="./images/gitea.svg" width="40"/>  <img src="./images/gitlab.svg" width="40"/>|
 | **Automation** | <img src="https://skillicons.dev/icons?i=jenkins,postman" /> <br> Apache NiFi *(custom)* |
